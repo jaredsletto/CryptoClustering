@@ -1,1 +1,3 @@
 # CryptoClustering
+
+For this challenge, I added to a starter code seen in the "Starter_Code" folder. I imported a csv file including information about cryptocurrency and scaled the data to create clusters using unsupervised machine learning. Using an elbow curve, I was able to use the appropriate amount of clusters. I then used Principal Component Analysis to work through the data a second time and compare the outcomes. Each elbow curve concluded that the appropriate amount of clusters is 4. Then when comparing the scatter plots, we can see that it is easier to identify clusters with few features. 
